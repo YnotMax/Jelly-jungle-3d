@@ -1,0 +1,6 @@
+{
+  "name": "Jelly Jungle",
+  "description": "Uma aventura 3D nas nuvens com uma geleia rosa e broto de hortelã saltando por 13 ilhas flutuantes com saltos triplos e cogumelos-mola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
